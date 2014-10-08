@@ -11,3 +11,8 @@ Push to `develop` branch
 
 *Don't forget to pull before starting to code, or before pushing any changes*
 
+
+### GitHub Links
+
+About using [**features**](https://www.github.com/features)
+
